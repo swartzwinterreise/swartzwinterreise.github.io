@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+locale = 'zh-cn'
+title = '露露的博客'
+theme = 'PaperMod'
+mainSections = ['posts']
+
+[params]
+  description = '露露的想法与日常'
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowShareButtons = false
+  ShowToc = true
+
+[params.homeInfoParams]
+  title = '欢迎来到露露的博客'
+  content = '记录想法、阅读与日常的地方。'
