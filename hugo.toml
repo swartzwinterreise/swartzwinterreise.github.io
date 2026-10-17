@@ -12,6 +12,7 @@ mainSections = ['posts']
   ShowPostNavLinks = true
   ShowShareButtons = false
   ShowToc = true
+  ShowTaxonomy = true
 
 [params.homeInfoParams]
   title = '欢迎来到露露的博客'
@@ -22,3 +23,13 @@ mainSections = ['posts']
   name = '关于'
   url = '/about/'
   weight = 10
+
+[[menu.main]]
+  name = '分类'
+  url = '/categories/'
+  weight = 20
+
+[[menu.main]]
+  name = '标签'
+  url = '/tags/'
+  weight = 30
