@@ -1,4 +1,4 @@
-baseURL = 'https://swartzwinterreise.github.io'
+baseURL = 'https://swartzwinterreise.github.io/'
 locale = 'zh-cn'
 title = '露露的博客'
 theme = 'PaperMod'
